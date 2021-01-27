@@ -1,0 +1,11 @@
+#berret {
+  margin-top: 25px;
+  margin-bottom: 25px;
+  border-top: 1px solid rgb(199, 196, 196);
+  border-bottom: 1px solid rgb(204, 197, 197);
+  padding: 10px;
+}
+
+.highlight {
+  background-color: rgb(245, 216, 149, 0.8);
+}
