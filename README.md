@@ -2,7 +2,7 @@
 
 Congo Prime
 
-We are cloning an Amazon product page, specifically a PS5 controller. This module is for the customers Q & A.
+We are cloning an Amazon product page, specifically a PS5 controller. This server contains all of the microservices our team worked on. I was tasked with the customers Q&A module.
 
 ## Related Projects
 
@@ -17,17 +17,19 @@ We are cloning an Amazon product page, specifically a PS5 controller. This modul
 2. [Instruction](#Instruction)
 3. [Requirements](#requirements)
 4. [Development](#development)
-5. [Dependancies](#Dependencies) 
+5. [Dependancies](#Dependencies)
 
 ## Usage
+
+![](http://g.recordit.co/yHgzacRqhW.gif)
 
 ## Instruction
 
 1. Pull down or clone this project
 2. Create a dist folder
-3. Pull or clone all related projects
+3. Pull or clone all related projects from above to the dist folder
 4. Follow the directions on #Dependencies and #Development for every module in the dist folder
-5. Run npm install on the root directory
+5. Run npm install on the root
 6. Run npm start
 7. Access your public address with port 3333
 
