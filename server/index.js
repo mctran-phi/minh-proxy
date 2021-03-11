@@ -5,10 +5,6 @@ const port = 3333;
 
 app.use(express.static(path.join(__dirname, '..', 'public')));
 
-app.get('/', (req, res) => {
-  res.send('Server');
-});
-
 app.listen(port, () => {
   console.log('Listening on port ' + port);
 });
