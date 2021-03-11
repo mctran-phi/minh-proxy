@@ -21,7 +21,7 @@ We are cloning an Amazon product page, specifically a PS5 controller. This serve
 
 ## Usage
 
-![](http://g.recordit.co/yHgzacRqhW.gif)
+<img src="http://g.recordit.co/yHgzacRqhW.gif" width="400">
 
 ## Instruction
 
