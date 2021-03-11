@@ -21,10 +21,6 @@ We are cloning an Amazon product page, specifically a PS5 controller. This serve
 
 ## Usage
 
-![Alt text](http://g.recordit.co/yHgzacRqhW.gif)
-![](http://g.recordit.co/yHgzacRqhW.gif)
-<img src="http://g.recordit.co/yHgzacRqhW.gif" width="100" height="100"/>
-
 ## Instruction
 
 1. Pull down or clone this project
