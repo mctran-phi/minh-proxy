@@ -21,6 +21,8 @@ We are cloning an Amazon product page, specifically a PS5 controller. This serve
 
 ## Usage
 
+![](https://github.com/mctran-phi/minh-proxy/blob/main/img/CongoPrimeDemo.gif)
+
 ## Instruction
 
 1. Pull down or clone this project
